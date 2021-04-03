@@ -63,7 +63,7 @@ def run_Bonky():
     elif 'tell me your name' in command:
         talk('I am Bonky. Your deskstop Assistant')
     elif 'who made you' in command or 'who created you' in command:
-        talk('I have been created by Chivukula Virinchi.')
+        talk('I have been first created by Krushant Patel,but multiple people helped me get better.')
     elif 'what is your name' in command or 'who are you' in command:
         talk('Did I forget to introduce myself? I am your personal assistant. Bonky!.')
     elif 'when is your birthday' in command:
